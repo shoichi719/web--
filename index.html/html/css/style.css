@@ -7,3 +7,15 @@ figure{
 figcaption{
     text-align: center;
 }
+h1{
+    color:pink;
+}
+h2{
+    color: blue;
+}
+.green{
+    color: green;
+}
+h2.green{
+color:pink;
+}
