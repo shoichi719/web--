@@ -1,21 +1,9 @@
-p{
-    color:#4169e1;
+div p {
+    color:red;
 }
-figure{
-    border: solid 1px purple;
+h1,p{
+    color:blue;
 }
-figcaption{
-    text-align: center;
-}
-h1{
-    color:pink;
-}
-h2{
-    color: blue;
-}
-.green{
-    color: green;
-}
-h2.green{
-color:pink;
+h2:hover{
+    color:;
 }
