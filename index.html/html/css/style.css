@@ -1,9 +1,8 @@
-div p {
-    color:red;
-}
-h1,p{
-    color:blue;
-}
-h2:hover{
-    color:aquamarine;
+#css {
+    color: #ccc;
+/*color:red;*/
+/* background-color:red;背景色 */
+/* font-size: 5px;文字の大きさ */
+/* text-align: right;文字の位置 */
+font-weight: bold;
 }
