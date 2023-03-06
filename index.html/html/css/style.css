@@ -1,16 +1,14 @@
-#css {
-    color: #ccc;
-/*color:red;*/
-/* background-color:red;背景色 */
-/* font-size: 5px;文字の大きさ */
-/* text-align: right;文字の位置 */
-/* font-weight: bold; */
+p{
+    border:solid red;
 }
-
 #css{
-    color:white;
-    background-color: black;
-    font-size: 5px;
-    text-align: center;
-    font-weight: bold;
-}
+ /* padding:100px;  */
+     margin: 50px 100px 50px 80px; 
+    /* padding-top: 100px; 
+    padding-right: 100px; 
+    padding-left: 100px; 
+    margin-top: 50px; 
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px; */
+} 
