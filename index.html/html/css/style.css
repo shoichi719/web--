@@ -4,5 +4,13 @@
 /* background-color:red;背景色 */
 /* font-size: 5px;文字の大きさ */
 /* text-align: right;文字の位置 */
-font-weight: bold;
+/* font-weight: bold; */
+}
+
+#css{
+    color:white;
+    background-color: black;
+    font-size: 5px;
+    text-align: center;
+    font-weight: bold;
 }
