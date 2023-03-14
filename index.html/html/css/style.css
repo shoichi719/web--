@@ -28,3 +28,26 @@ p::first-letter{
     color: pink;
     background: brown;
 }
+a{
+    font-size: 50px;
+}
+
+a:hover{
+    color:blue;
+}
+
+a:visited{
+    color:green;
+}
+li{
+    font-size: 50px;
+}
+li:nth-child(3){
+    color:red;
+}
+li:nth-child(even){
+    color:blue;
+}
+li:first-child{
+    color:orange 
+}
