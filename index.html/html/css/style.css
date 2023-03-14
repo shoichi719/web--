@@ -1,14 +1,30 @@
-p{
-    border:solid red;
+
+h1{
+    display: inline-block;
+    position: relative;
 }
-#css{
- /* padding:100px;  */
-     margin: 50px 100px 50px 80px; 
-    /* padding-top: 100px; 
-    padding-right: 100px; 
-    padding-left: 100px; 
-    margin-top: 50px; 
-    margin-bottom: 50px;
-    margin-right: 50px;
-    margin-left: 50px; */
-} 
+
+h1::before{
+    content: "柴";
+    color: brown;
+    font-size: 50px;
+    
+}
+
+h1::after{
+    content: "";
+    background: url(html/images/shibainu.jpg);
+    background-size: contain;
+    width: 100px;
+    height: 60px;
+    position: absolute; 
+    top: 0;
+    right: -100px
+}
+p{
+    font-size: 50px;
+}
+p::first-letter{
+    color: pink;
+    background-color: brown;
+}
