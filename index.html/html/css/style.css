@@ -13,7 +13,7 @@ h1::before{
 
 h1::after{
     content: "";
-    background: url(shibainu02.jpg);
+    background: url(../../shibainu02.jpg);
     background-size: contain;
     width: 100px;
     height: 60px;
