@@ -13,7 +13,7 @@ h1::before{
 
 h1::after{
     content: "";
-    background: url(../images/shibainu.jpg);
+    background: url(../images/sample01.png);
     background-size: contain;
     width: 100px;
     height: 60px;
@@ -37,7 +37,7 @@ a:hover{
 }
 
 a:visited{
-    color:green;pg
+    color:green;
 }
 li{
     font-size: 50px;
