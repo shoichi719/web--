@@ -65,3 +65,14 @@ nav ul{
 hr{
     margin: 20px 0px;
 }
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: darkcyan;
+    width: 100%;
+    text-align: center;
+    color:darkgray;
+    padding: 20px 0px;
+    font-size: 11px;
+
+}
