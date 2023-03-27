@@ -13,8 +13,14 @@
     text-align: center;
     padding:250px 0px;
 }
+
 .top-text h1{
     font-size: 100px;
     font-family: 'Dancing Script', cursive;
+
+}
+nav h3{
+    font-family: 'Dancing Script', cursive;
+    color: black;
 
 }
