@@ -1,3 +1,20 @@
-h1{
-    color: red;
+*{
+    margin:0;
+    padding:0;
+    color: white;
+}
+.top-img{
+    background-image: url(../img/素材/img01.jpg);
+    background-size: cover;
+    ;
+}
+
+.top-text{
+    text-align: center;
+    padding:250px 0px;
+}
+.top-text h1{
+    font-size: 100px;
+    font-family: 'Dancing Script', cursive;
+
 }
