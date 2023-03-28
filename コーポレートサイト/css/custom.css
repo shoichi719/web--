@@ -28,3 +28,16 @@ nav h3{
 nav i{
     color:#888;
 }
+
+.feature-area{
+background-image: url(../img/素材/img02.jpg);
+background-size: cover;
+padding:250px 0px;
+text-align: center;
+}
+
+.feature-area h2{
+font-size: 80px;
+font-family: 'Dancing Script', cursive;
+margin-bottom: 40px
+}
