@@ -1,6 +1,6 @@
 *{
-    margin:0;
-    padding:0;
+    margin: 0;
+    padding: 0;
     color: white;
 }
 .top-img{
@@ -11,7 +11,7 @@
 
 .top-text{
     text-align: center;
-    padding:250px 0px;
+    padding: 250px 0px;
 }
 
 .top-text h1{
@@ -26,13 +26,13 @@ nav h3{
 }
 
 nav i{
-    color:#888;
+    color: #888;
 }
 
 .feature-area{
 background-image: url(../img/素材/img02.jpg);
 background-size: cover;
-padding:250px 0px;
+padding: 250px 0px;
 text-align: center;
 }
 
@@ -40,4 +40,17 @@ text-align: center;
 font-size: 80px;
 font-family: 'Dancing Script', cursive;
 margin-bottom: 40px
+}
+.service-list{
+    background-color:black ;
+    text-align: center;
+    padding: 50px;
+    
+}
+ .service-list h2{
+    font-size: 80px;
+    font-family: 'Dancing Scriot', cursive;
+ }
+.service-description{
+    padding: 30px;
 }
