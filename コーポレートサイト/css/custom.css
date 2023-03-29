@@ -1,12 +1,12 @@
 *{
     margin: 0;
     padding: 0;
-    color: white;
+    color: #fff;
 }
 .top-img{
     background-image: url(../img/素材/img01.jpg);
     background-size: cover;
-    background-attachment: ficxed;
+    background-attachment: fixed;
     
 }
 
@@ -32,7 +32,7 @@ nav i{
 
 .feature-area{
 background-image: url(../img/素材/img02.jpg);
-background-attachment: ficxed;
+background-attachment: fixed;
 background-size: cover;
 padding: 250px 0px;
 text-align: center;
@@ -43,19 +43,23 @@ font-size: 80px;
 font-family: 'Dancing Script', cursive;
 margin-bottom: 40px
 }
+
 .service-list{
-    background-color:black ;
+    background-color: black ;
     text-align: center;
     padding: 50px;
     
 }
+
  .service-list h2{
     font-size: 80px;
-    font-family: 'Dancing Scriot', cursive;
+    font-family: 'Dancing Script', cursive;
  }
+
 .service-description{
     padding: 30px;
 }
+
 .info{
     border: solid 2px  white;
      margin: 20px;
@@ -82,7 +86,7 @@ footer ul li a{
 }
 
 footer ul li a:hover{
-    color:white;
+    color: white;
 }
 
 footer p{
