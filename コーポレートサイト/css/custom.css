@@ -6,7 +6,8 @@
 .top-img{
     background-image: url(../img/素材/img01.jpg);
     background-size: cover;
-    ;
+    background-attachment: ficxed;
+    
 }
 
 .top-text{
@@ -31,6 +32,7 @@ nav i{
 
 .feature-area{
 background-image: url(../img/素材/img02.jpg);
+background-attachment: ficxed;
 background-size: cover;
 padding: 250px 0px;
 text-align: center;
